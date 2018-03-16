@@ -1,0 +1,1 @@
+This app takes a search term via user input, and uses the Twit API to search Twitter (standard search API) for the most recent tweet with an image included. The URL of the image is then displayed on the screen.
